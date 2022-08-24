@@ -1,0 +1,53 @@
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color:#D8CFE8;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot-1{
+  height: 25px;
+  width: 25px;
+  background-color:#D4E8CF;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot-2 {
+  height: 25px;
+  width: 25px;
+  background-color: #FCF6F2;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot-3{
+  height: 25px;
+  width: 25px;
+  background-color: #E8E7CF;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.row {
+  padding: 0px!important;
+  margin: 0px!important;
+}
+
+@media only screen and (max-device-width: 480px) {
+  .nav-header-hide {
+    background-color: blue!important;
+  }
+}
+.color {
+  background-color: #FBF6F2;
+}
+.card-img-top:hover {
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+.img-12:hover{
+  filter: blur(8px);
+}
+.card-link {
+  color: black;
+}
